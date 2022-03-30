@@ -1,0 +1,3 @@
+[submodule "myreponewbranch"]
+	path = myreponewbranch
+	url = https://github.com/vikasa007/myreponewbranch.git
